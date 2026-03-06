@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+sqlmodel
+bcrypt
+dotenv
+python-jose[cryptography]
+aiosqlite
+pydantic[email]
+SQLite
+SQLite Viewer
